@@ -1,6 +1,6 @@
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🌱 I’m currently learning **AWS,GCP**
+- 🌱 I’m currently learning **AWS, GCP**
 
 - 💬 Ask me about **Angular, Springboot**
 
