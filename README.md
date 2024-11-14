@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [augustinde.dev](augustinde.dev)
+- 👨‍💻 All of my projects are available at [https://augustinde.dev](https://augustinde.dev)
 
 - 💬 Ask me about **Angular, Springboot**
 
